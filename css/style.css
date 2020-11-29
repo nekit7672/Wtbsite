@@ -1,0 +1,102 @@
+.body{
+    background: url(images/fon5.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.aligncenter {
+    text-align: center;
+}
+
+.tabl{
+    color: rgb(255, 255, 255);
+}
+
+.tabl2{
+    color: rgb(255, 255, 255);
+}
+
+.tabl3{
+    color: rgb(255, 255, 255); 
+}
+
+.text{
+    color: rgb(255, 255, 255);
+}
+
+.text1{
+    color: rgb(255, 255, 255);
+}
+
+.text2{
+    color: rgb(255, 255, 255);
+}
+
+.text3{
+    color: rgb(255, 255, 255);
+}
+
+.text4{
+    color: rgb(182, 35, 35);
+}
+
+.text5{
+    color: rgb(182, 35, 35);
+}
+
+.text6{
+    color: rgb(255, 255, 255);
+}
+
+.text7{
+    color: rgb(255, 255, 255);
+}
+
+.text8{
+    color: rgb(255, 255, 255);
+}
+
+.text9{
+    color: rgb(255, 255, 255);
+}
+
+.text10{
+    color: rgb(255, 255, 255);
+}
+
+.left {
+    margin-top: 20px;
+    width: 25%;
+    float: left;
+}
+
+.center {
+    background-color: rgb(145, 145, 145);
+    margin-top: 20px;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.right {
+    margin-top: 20px;
+    width: 25%;
+    float: left;
+}
+
+.class {
+    margin-left:auto ;
+    margin-right: auto;
+    display: block;
+}
+.Moment {
+    text-decoration: dotted;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+.News {
+    text-decoration: dotted;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
